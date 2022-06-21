@@ -1,0 +1,5 @@
+x = input("Enter a string: ")
+temp_list = list(x)
+print(temp_list)
+temp_list.reverse()
+print(temp_list)
